@@ -17,6 +17,7 @@
 
 package org.apache.inlong.sort.standalone.sink.http;
 
+import org.apache.http.client.methods.*;
 import org.apache.inlong.sort.standalone.channel.ProfileEvent;
 import org.apache.inlong.sort.standalone.utils.UnescapeHelper;
 
